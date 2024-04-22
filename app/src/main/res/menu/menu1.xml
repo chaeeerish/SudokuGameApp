@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemReset"
+        android:title="RESET">
+    </item>
+    <item
+        android:id="@+id/itemRestart"
+        android:title="RESTART">
+    </item>
+    <item
+        android:id="@+id/itemLevelup"
+        android:title="LEVEL UP">
+    </item>
+    <item
+        android:id="@+id/itemLeveldown"
+        android:title="LEVEL DOWN">
+    </item>
+</menu>
