@@ -10,7 +10,7 @@
 
 ### 추가 구현 기능
 <div align="center">
-    <img src="img.png">
+    <img src="image/img.png">
 </div>
 
 1. RESTART
@@ -23,7 +23,7 @@
 - 특정 임계값에 닿으면 더 이상 올릴 수 없음
 
 <div align="center">
-    <img src="img_1.png">
+    <img src="image/img_1.png">
 </div>
 
 4. 게임 횟수
@@ -31,20 +31,20 @@
 - 게임 시작시 토스크 메시지 알림
 
 <div align="center">
-    <img src="img_3.png">
+    <img src="image/img_3.png">
 </div>
 
 5. 게임 성공 여부
 - 모든 숫자를 성공적으로 채웠다면, 토스트 메시지로 알림
 
 <div align="center">
-    <img src="img_2.png">
+    <img src="image/img_2.png">
 </div>
 
 6. 게임 소요 시간
 - 게임을 성공할 때까지 소요된 시간을 게임 종료 토스트 메시지 알림
 
 <div align="center">
-    <img src="img_4.png">
+    <img src="image/img_4.png">
 </div>
 
