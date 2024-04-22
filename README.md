@@ -9,8 +9,8 @@
 - 메모 기능을 이용하여 숫자 후보를 각 칸에 표시할 수 있다.
 
 ### 추가 구현 기능
-<div>
-![img.png](img.png)
+<div align="center">
+    <img src="img.png">
 </div>
 
 1. RESTART
@@ -22,29 +22,29 @@
 - 게임을 시작할 때 보여지는 숫자의 개수를 조절하여 LEVEL을 더 높이거나 낮출 수 있는 기능
 - 특정 임계값에 닿으면 더 이상 올릴 수 없음
 
-<div>
-![img_1.png](img_1.png)
+<div align="center">
+    <img src="img_1.png">
 </div>
 
 4. 게임 횟수
 - RESTART를 통해 앱을 실행하고나서 몇 번 게임을 시작 및 재시작 했는지 계산
 - 게임 시작시 토스크 메시지 알림
 
-<div>
-![img_3.png](img_3.png)
+<div align="center">
+    <img src="img_3.png">
 </div>
 
 5. 게임 성공 여부
 - 모든 숫자를 성공적으로 채웠다면, 토스트 메시지로 알림
 
-<div>
-![img_2.png](img_2.png)
+<div align="center">
+    <img src="img_2.png">
 </div>
 
 6. 게임 소요 시간
 - 게임을 성공할 때까지 소요된 시간을 게임 종료 토스트 메시지 알림
 
-<div>
-![img_4.png](img_4.png)
+<div align="center">
+    <img src="img_4.png">
 </div>
 
